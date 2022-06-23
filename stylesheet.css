@@ -1,1 +1,20 @@
 /* CSS sheet for Portfolio */
+
+.nav_css{
+    color: antiquewhite;
+    font-style: ;
+}
+
+.header_container{
+    display: flex;
+    max-width: wrap;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    padding-inline-start: 1rem;
+    padding-inline-end: 1rem;
+    width: 100%;
+}
+
+.logo{
+    
+}
